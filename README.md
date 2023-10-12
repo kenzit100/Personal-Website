@@ -1,5 +1,15 @@
 # Kenneth Thomas Baidoo - Resume
 
+## My Webpage
+
+Visit my (https://kenzit100.github.io/Personal-Website/) to learn more about my projects and activities. You can find detailed information about my background, skills, and experiences.
+
+### Quick Links
+- [GitHub Repository](https://github.com/kenzit100)
+- [LinkedIn Profile](https://www.linkedin.com/in/kenneth-thomas-baidoo-467574220/))
+- [Email Me](mailto:ktb26@njit.edu)
+
+
 This is a GitHub repository containing my resume in HTML format. It provides an overview of my educational background, professional experience, certifications, skills, and more.
 
 ## Table of Contents
