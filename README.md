@@ -1,6 +1,7 @@
 # Kenneth Thomas Baidoo - Resume
 
-### My Webpage
+<a name="my-special-section"></a>
+## My Webpage
 
 Visit my (https://kenzit100.github.io/Personal-Website/) to learn more about my projects and activities. You can find detailed information about my background, skills, and experiences.
 
