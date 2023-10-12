@@ -17,7 +17,7 @@ This is a GitHub repository containing my resume in HTML format. It provides an 
 - [Resume Sections](#resume-sections)
 - [Styling](#styling)
 - [Contributions](#contributions)
-- [License](#license)
+
 
 ## Introduction
 
